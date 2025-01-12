@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+void printArrays();
 int main(){
 
 int n,t,k,c;
